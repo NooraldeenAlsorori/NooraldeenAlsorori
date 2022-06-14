@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NooraldeenAlsorori
-- 👀 I’m interested in python and cybersecurity
+- 👀 I’m interested in programming - cybersecurity - project management
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on amazing python projects
 - 📫 How to reach me https://twitter.com/NooraldeenAlso1
